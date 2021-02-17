@@ -51,3 +51,12 @@ Implement a console-based social networking application (similar to Twitter) sat
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
 
 **CODE SUBMISSION:** Add the code to your own Github account and send us the link.
+
+## Running the code
+This project is build with sbt.
+
+Enter inside `socialnetwork/` and type:
+
+- `sbt test` for runnning the tests
+
+- `sbt run` for running the applciation
